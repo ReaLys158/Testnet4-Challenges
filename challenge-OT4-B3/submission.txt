@@ -2,4 +2,4 @@ nodeid:84a96b931f920761
 bakerid:1708
 accountaddress:4RWEfG6rF1KHovgvpktf4aMQWVkTHEooDh6Q2Ef6sH63qoKVh6
 blockhash_addbaker:ec1379bf37c6b33556aba15a267e3714d3f04e4c65ba9330d6725c3099b3aa6f
-blockhash_removebaker:<replace this text with the blockhash of the block with the remove baker transaction in it>
+blockhash_removebaker:865b78a956b69c61212e5ddcef7a7a531dadbcbdc9c4886071ee01e601047d21
